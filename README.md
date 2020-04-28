@@ -9,9 +9,9 @@
 
 1. make Docker image
 
-    '''
+    ```
     docker build -t nature_remo_auto_change_light .
-    '''
+    ```
 
 1. check
 
